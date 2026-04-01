@@ -31,14 +31,6 @@ Techniques: PyTorch, FGSM, adversarial training, MLP and CNN architectures, robu
 
 ---
 
-### Assessment 3 — Network Intrusion Detection System (NIDS)
-
-Deep learning-based binary classification of network traffic to detect DDoS attacks. Used a labelled network traffic dataset with engineered flow-level features. Compared ML baselines against a deep learning model and evaluated using precision, recall, F1-score, and ROC-AUC.
-
-Techniques: Feature engineering on network flow data, Random Forest baseline, deep neural network classifier, SMOTE class balancing, scikit-learn, Keras.
-
----
-
 ## Repository Structure
 
 ```
